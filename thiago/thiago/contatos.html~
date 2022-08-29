@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>contatos</title>
+<meta name="generator" content="Bluefish 2.2.4" >
+<meta name="author" content="aluno_2" >
+<meta name="date" content="2013-09-28T13:25:35-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<style>
+body{
+	background-color: yellow;
+	color: green;
+}
+a.classe{
+	display: block;
+	width: 50px;
+	height: 14px;
+	float: left;
+	text-align: center;
+	border-color: blue;
+	border-style: double;
+	border-width: 2px;
+	padding: 10px;
+	margin: 1px;	
+	background-color: whitesmoke;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px blue;
+}
+h2{
+color: beige;
+}
+
+</style>
+
+</head>
+<body>
+<a class="classe" href="#allan">Allan</a><br/>
+<a class="classe" href="#ana">Ana</a><br/>
+<a class="classe" href="#andreia">Andréia</a><br/>
+<a class="classe" href="#carolina">Carolina</a><br/>
+<a class="classe" href="#douglas">Douglas</a><br/>
+<a class="classe" href="#rafael">Rafael</a><br/>
+<a class="classe" href="#rafaela">Rafaela</a><br/>
+<a class="classe" href="#rube">Rube</a><br/>
+<a class="classe" href="#thiago">Thiago</a><br/>
+<br/>
+<br/>
+<br/><a name="allan"></a>
+<h2>Allan Bastos</h2> 
+<p>
+Sexo: Masculino <br/>
+Idade: 12 </br>
+Time: Coxa <br/>
+Signo: Touro<br>
+</p>
+<a name="ana"></a>
+<h2>Ana Borba</h2> 
+<p>
+Sexo: Feminino <br/>
+Idade: 23 </br>
+Time: Vasco <br/>
+Signo: Câncer<br>
+</p>
+<a name="andreia"></a>
+<h2>Andréia Tomio</h2> 
+<p>
+Sexo: Feminino <br/>
+Idade: 29 </br>
+Time: Vasco <br/>
+Signo: Escorpião<br>
+</p>
+<a name="carolina"></a>
+<h2>Carolina Koike</h2> 
+<p>
+Sexo: Feminino <br/>
+Idade: 23 </br>
+Time: SP <br/>
+Signo: Áries<br>
+</p>
+<a name="douglas"></a>
+<h2>Douglas Pereira</h2> 
+<p>
+Sexo: Masculino <br/>
+Idade: 20 </br>
+Time: Corinthians <br/>
+Signo: Aquario<br>
+</p>
+<a name="rafael"></a>
+<h2>Rafael Vieira</h2>
+<p>
+Sexo: Masculino <br/>
+Idade: 25 </br>
+Time: Corinthians <br/>
+Signo: Libra<br>
+</p>
+<a name="rafaela"></a>
+<h2>Rafaela Nader</h2> 
+<p>
+Sexo: Feminino <br/>
+Idade: 23 </br>
+Time: Coxa <br/>
+Signo: Áries<br>
+</p>
+<a name="rube"></a>
+<h2>Rube Dias</h2>
+<p>
+Sexo: Masculino <br/>
+Idade: 32 </br>
+Time: Vasco <br/>
+Signo: Vasco<br>
+</p>
+<a name="thiago"></a>
+<h2>Thiago Canali</h2>
+<p>
+Sexo: Masculino <br/>
+Idade: 14 </br>
+Time: Paranista <br/>
+Signo: Sagitário<br>
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+</body>
+</html>

@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vinhos</title>
+	</head>
+<style/>
+body{
+	font-family: arial;
+	background-color: #B23E3E;
+	color: #5E1717;
+}
+div{
+	display: block;
+	width: 315px;
+	height: 190px;
+	float: left;
+	text-align: justify;
+	border-color: #680C1A;
+	border-style: double;
+	border-width: 2px;
+	padding: 20px;
+	margin: 1px;	
+	background-color: #FFCECE;
+	border-radius: 15px;
+	box-shadow: 1px 1px 1px 1px #680C1A;
+	
+}
+
+img{
+	float: left;
+	border-color: black;
+	border-style: solid;
+	border-width:2px;
+	border-radius: 5px;
+	margin: 5px;
+	
+}
+</style>	
+	<body>
+		<div>
+		<img src="imagens/aalto_ps.jpg" width="60" height="183" alt="" />
+		Nome: AALTO PS
+		Preço: R$ 670,00
+		Safra: 2006
+		Vinícola: AALTO
+		Tipo: Tinto
+		Uva: Tempranillo
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/abadia_retuerta_seleccion_especial.jpg" width="44" height="183" alt="" />
+		Nome: Abadia Retuerta Seleccion Especial
+		Preço: R$ 188,00
+		Safra: 2006
+		Vinícola: Abadia Retuerta
+		Tipo: Tinto
+		Uva: Tempranillo
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/achaval_ferrer_malbec.jpg" width="76" height="182" alt="" />
+		Nome: Achaval Ferrer Malbec
+		Preço: R$ 89,00
+		Safra: 2010
+		Vinícola: Achaval Ferrer
+		Tipo: Tinto
+		Uva: Malbec
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/adolfo_lona_brut_charmat.jpg" width="57" height="183" alt="" />
+		Nome: Adolfo Lona Brut Charmat
+		Preço: R$ 34,00
+		Safra: 2006
+		Vinícola: Adolfo Lona
+		Tipo: Espumante
+		Uva: Gamay
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/al_muvedre.jpg" width="76" height="182" alt="" />
+		Nome: Al Muvedre
+		Preço: R$ 78,00
+		Safra: 2007
+		Vinícola: Telmo Rodriguez
+		Tipo: Tinto
+		Uva: Monastrell
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/alamos_bonarda.jpg" width="53" height="183" alt="" />
+		Nome: Alamos Bonarda
+		Preço: R$ 38,00
+		Safra: 2005
+		Vinícola: Catena Zapata
+		Tipo: Tinto
+		Uva: Bonarda
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/almaden_tannat_vinhas_velhas.jpg" width="51" height="183" alt="" />
+		Nome: Almadén Tannat Vinhas Velhas
+		Preço: R$ 86,00
+		Safra: 2008
+		Vinícola: Miolo
+		Tipo: Tinto
+		Uva: Tannat
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/almaunica_espumante_moscatel.jpg" width="53" height="183" alt="" />
+		Nome: Almaúnica Espumante Moscatel
+		Preço: R$ 34,00
+		Safra: 2010
+		Vinícola: Vinicola Almaúnica
+		Tipo: Espumante
+		Uva: Moscatel
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/almaunica_reserva_merlot_d_o.jpg" width="46" height="183" alt="" />
+		Nome: Almaúnica Reserva Merlot D.O.
+		Preço: R$ 58,00
+		Safra: 2009
+		Vinícola: Almaúnica
+		Tipo: Tinto
+		Uva: Merlot
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/alsacia_hugel_fils_riesling.jpg" width="52" height="183" alt="" />
+		Nome: Alsácia Hugel & Fils Riesling
+		Preço: R$ 105,00
+		Safra: 1985
+		Vinícola: Hugel & Fils
+		Tipo: Branco
+		Uva: Riesling
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/alta_vista_atemporal.jpg" width="62" height="183" alt="" />
+		Nome: Alta Vista Atemporal
+		Preço: R$ 55,00
+		Safra: 2001
+		Vinícola: Alta Vista
+		Tipo: Tinto
+		Uva: Malbec
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/alto_las_hormigas_malbec.jpg" width="76" height="182" alt="" />
+		Nome: Alto Las Hormigas Malbec
+		Preço: R$ 55,00
+		Safra: 2010
+		Vinícola: Alto Las Hormigas
+		Tipo: Tinto
+		Uva: Malbec
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/andeluna_chardonnay.jpg" width="58" height="183" alt="" />
+		Nome: Andeluna Chardonnay
+		Preço: R$ 39,00
+		Safra: 2003
+		Vinícola: Andeluna
+		Tipo: Branco
+		Uva: Chardonnay
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/balbo_rose.jpg" width="47" height="183" alt="" />
+		Nome: Balbo Rosé
+		Preço: R$ 21,00
+		Safra: 2003
+		Vinícola: Los Haroldos
+		Tipo: Rosé
+		Uva: Malbec
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/bordeaux_chateau_le_puy.jpg" width="66" height="183" alt="" />
+		Nome: Bordeaux Château Le Puy
+		Preço: R$ 209,00
+		Safra: 2006
+		Vinícola: Château Le Puy
+		Tipo: Tinto
+		Uva: Sauvignon
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/bourgogne_antonin_rodet_chardonnay.jpg" width="63" height="183" alt="" />
+		Nome: Bourgogne Antonin Rodet Chardonnay
+		Preço: R$ 79,00
+		Safra: 1989
+		Vinícola: Antonin Rodet
+		Tipo: Branco
+		Uva: Chardonnay
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/carmen_reserve_carmenere.jpg" width="76" height="182" alt="" />
+		Nome: Carmen Reserve Carménère
+		Preço: R$ 55,00
+		Safra: 2002
+		Vinícola: Viña Carmen
+		Tipo: Tinto
+		Uva: Carmenere
+		Origem: Chile
+		</div>
+
+		<div>
+		<img src="imagens/cava_freixenet_carta_nevada_demi-sec.jpg" width="63" height="183" alt="" />
+		Nome: Cava Freixenet Carta Nevada Demi-Sec
+		Preço: R$ 49,00
+		Safra: 2003
+		Vinícola: Freixenet
+		Tipo: Espumante
+		Uva: Parellada
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/chateau_de_la_tuilerie_syrah_grenache.jpg" width="76" height="182" alt="" />
+		Nome: Chateau de la Tuilerie Syrah/ Grenache
+		Preço: R$ 98,00
+		Safra: 2006
+		Vinícola: Château de la Tuilerie
+		Tipo: Tinto
+		Uva: Shiraz
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/chatons_du_cedre.jpg" width="52" height="183" alt="" />
+		Nome: Chatons du Cèdre
+		Preço: R$ 55,00
+		Safra: 2002
+		Vinícola: Chatons du Cèdre
+		Tipo: Tinto
+		Uva: Malbec
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/ciconia_reserva.jpg" width="76" height="157" alt="" />
+		Nome: Ciconia Reserva
+		Preço: R$ 72,00
+		Safra: 2006
+		Vinícola: Casa Agrícola Alexandre Relvas
+		Tipo: Tinto
+		Uva: Aragonês
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/corbieres_domaine_des_blanquieres_rose.jpg" alt="" />
+		Nome: Corbières Domaine Des Blanquieres Rosé
+		Preço: R$ 49,00
+		Safra: 2006
+		Vinícola: Société Coopérative de Névian
+		Tipo: Rosé
+		Uva: Garnacha
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/coroa_de_rei_branco.jpg" width="52" height="183" alt="" />
+		Nome: Coroa de Rei Branco
+		Preço: R$ 34,00
+		Safra: 2004
+		Vinícola: Poças
+		Tipo: Branco
+		Uva: Malvasia
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/coroa_de_rei_lagrima_porto.jpg" width="55" height="183" alt="" />
+		Nome: Coroa de Rei Lágrima Porto
+		Preço: R$ 59,00
+		Safra: 2001
+		Vinícola: Poças
+		Tipo: do Porto
+		Uva: Malvasia
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/costa_pacifico_sauvignon_blanc.jpg" width="45" height="183" alt="" />
+		Nome: Costa Pacífico Sauvignon Blanc
+		Preço: R$ 27,80
+		Safra: 2008
+		Vinícola: Miolo
+		Tipo: Branco
+		Uva: Sauvignon Blanc
+		Origem: Chile
+		</div>
+
+		<div>
+		<img src="imagens/cotes_du_rhone_haut_colombier_white.jpg" width="51" height="183" alt="" />
+		Nome: Côtes du Rhône Haut Colombier White
+		Preço: R$ 39,00
+		Safra: 2009
+		Vinícola: Cellier des Dauphins
+		Tipo: Branco
+		Uva: Garnacha
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/cotes_du_rhone_rouge_vidal_fleury.jpg" width="51" height="183" alt="" />
+		Nome: Côtes du Rhône Rouge Vidal - Fleury
+		Preço: R$ 72,00
+		Safra: 2006
+		Vinícola: Vidal-Fleury
+		Tipo: Tinto
+		Uva: Garnacha
+		Origem: França
+		</div>
+
+		<div>
+		<img src="imagens/di_lenardo_sauvignon_blanc.jpg" width="52" height="183" alt="" />
+		Nome: Di Lenardo Sauvignon Blanc
+		Preço: R$ 82,00
+		Safra: 2007
+		Vinícola: Di Lenardo
+		Tipo: Branco
+		Uva: Sauvignon Blanc
+		Origem: Itália
+		</div>
+
+		<div>
+		<img src="imagens/don_giovanni_brut_ouro.jpg" width="48" height="183" alt="" />
+		Nome: Don Giovanni Brut Ouro
+		Preço: R$ 79,00
+		Safra: 2006
+		Vinícola: Don Giovanni
+		Tipo: Espumante
+		Uva: Chardonnay
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/don_melchor_cabernet_sauvignon.jpg" width="50" height="183" alt="" />
+		Nome: Don Melchor Cabernet Sauvignon
+		Preço: R$ 395,00
+		Safra: 2007
+		Vinícola: Concha y Toro
+		Tipo: Tinto
+		Uva: Cabernet Sauvignon
+		Origem: Chile
+		</div>
+
+		<div>
+		<img src="imagens/down_under_chardonnay.jpg" width="48" height="183" alt="" />
+		Nome: Down Under Chardonnay
+		Preço: R$ 49,00
+		Safra: 2003
+		Vinícola: Westend Estate
+		Tipo: Branco
+		Uva: Chardonnay
+		Origem: Austrália
+		</div>
+
+		<div>
+		<img src="imagens/down_under_shiraz.jpg" width="46" height="183" alt="" />
+		Nome: Down Under Shiraz
+		Preço: R$ 49,00
+		Safra: 2001
+		Vinícola: Westend Estate
+		Tipo: Tinto
+		Uva: Shiraz
+		Origem: Austrália
+		</div>
+
+		<div>
+		<img src="imagens/farnese_montepulciano_dabruzzo_doc.jpg" width="58" height="183" alt="" />
+		Nome: Farnese Montepulciano DAbruzzo DOC
+		Preço: R$ 39,00
+		Safra: 2009
+		Vinícola: Vini Farnese
+		Tipo: Tinto
+		Uva: Montepulciano
+		Origem: Itália
+		</div>
+
+		<div>
+		<img src="imagens/finca_el_origen_reserva_viognier.jpg" width="53" height="183" alt="" />
+		Nome: Finca el Origen Reserva Viognier
+		Preço: R$ 36,00
+		Safra: 2007
+		Vinícola: Bodegas y Vinedos La Esperanza
+		Tipo: Branco
+		Uva: Viognier
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/flor_de_crasto_branco.jpg" width="51" height="183" alt="" />
+		Nome: Flor de Crasto Branco
+		Preço: R$ 36,80
+		Safra: 2004
+		Vinícola: Quinta do Crasto
+		Tipo: Branco
+		Uva: Viosinho
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/freixenet_tournee_brut.jpg" width="59" height="183" alt="" />
+		Nome: Freixenet Tourneé Brut
+		Preço: R$ 29,90
+		Safra: 2002
+		Vinícola: Freixenet
+		Tipo: Espumante
+		Uva: Pinot Noir
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/guidalberto_toscana_igt.jpg" width="46" height="183" alt="" />
+		Nome: Guidalberto Toscana IGT
+		Preço: R$ 328,00
+		Safra: 2006
+		Vinícola: Tenuta San Guido
+		Tipo: Tinto
+		Uva: Cabernet Sauvignon
+		Origem: Itália
+		</div>
+
+		<div>
+		<img src="imagens/herdade_do_esporao_petit_verdot.jpg" width="59" height="183" alt="" />
+		Nome: Herdade do Esporão Petit Verdot
+		Preço: R$ 169,50
+		Safra: 2006
+		Vinícola: Herdade do Esporão
+		Tipo: Tinto
+		Uva: Petit Verdot
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/icesin.jpg" width="53" height="183" alt="" />
+		Nome: Icesin
+		Preço: R$ 16,00
+		Safra: 2009
+		Vinícola: Sanjo
+		Tipo: Espumante
+		Uva: Gamay
+		Origem: Brasil
+		</div>
+
+		<div>
+		<img src="imagens/lan_reserva.jpg" width="48" height="183" alt="" />
+		Nome: LAN Reserva
+		Preço: R$ 136,00
+		Safra: 2001
+		Vinícola: Bodegas Lan
+		Tipo: Tinto
+		Uva: Tempranillo
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/los_haroldos_torrontes.jpg" width="51" height="183" alt="" />
+		Nome: Los Haroldos Torrontés
+		Preço: R$ 25,90
+		Safra: 2005
+		Vinícola: Los Haroldos
+		Tipo: Branco
+		Uva: Torrontés
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/ma_partilha.jpg" width="47" height="183" alt="" />
+		Nome: Má Partilha
+		Preço: R$ 175,00
+		Safra: 2007
+		Vinícola: Bacalhôa
+		Tipo: Tinto
+		Uva: Merlot
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/marques_de_murrieta_reserva_tinto.jpg" width="51" height="183" alt="" />
+		Nome: Marqués de Murrieta Reserva Tinto
+		Preço: R$ 128,00
+		Safra: 2005
+		Vinícola: Marqués de Murrieta
+		Tipo: Tinto
+		Uva: Tempranillo
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/maycas_del_limari_reserva_especial_syrah.jpg" width="76" height="152" alt="" />
+		Nome: Maycas del Limari Reserva Especial Syrah
+		Preço: R$ 89,00
+		Safra: 2007
+		Vinícola: Vina Maycas del Limari
+		Tipo: Tinto
+		Uva: Shiraz
+		Origem: Chile
+		</div>
+
+		<div>
+		<img src="imagens/monte_velho_branco.jpg" width="46" height="183" alt="" />
+		Nome: Monte Velho Branco
+		Preço: R$ 32,90
+		Safra: 2006
+		Vinícola: Herdade do Esporão
+		Tipo: Branco
+		Uva: Antão Vaz
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/montes_alpha_chardonnay.jpg" width="76" height="182" alt="" />
+		Nome: Montes Alpha Chardonnay
+		Preço: R$ 105,00
+		Safra: 2004
+		Vinícola:  Viña Montes
+		Tipo: Branco
+		Uva: Chardonnay
+		Origem: Chile
+		</div>
+
+		<div>
+		<img src="imagens/obra_prima_brut.jpg" width="55" height="183" alt="" />
+		Nome: Obra Prima Brut
+		Preço: R$ 45,00
+		Safra: 2006
+		Vinícola: Familia Cassone
+		Tipo: Espumante
+		Uva: Chardonnay
+		Origem: Argentina
+		</div>
+
+		<div>
+		<img src="imagens/osborne_solaz_rosado.jpg" width="56" height="183" alt="" />
+		Nome: Osborne Solaz Rosado
+		Preço: R$ 38,50
+		Safra: 2008
+		Vinícola: Osborne Seleccion S.A.
+		Tipo: Rosé
+		Uva: Shiraz
+		Origem: Espanha
+		</div>
+
+		<div>
+		<img src="imagens/passadouro.jpg" width="76" height="182" alt="" />
+		Nome: Passadouro
+		Preço: R$ 139,00
+		Safra: 2002
+		Vinícola: Quinta do Passadouro
+		Tipo: Tinto
+		Uva: Tinta Roriz
+		Origem: Portugal
+		</div>
+
+		<div>
+		<img src="imagens/perinet.jpg" width="44" height="183" alt="" />
+		Nome: Perinet
+		Preço: R$ 215,00
+		Safra: 2004
+		Vinícola: Mas Perinet
+		Tipo: Tinto
+		Uva: Garnacha
+		Origem: Espanha
+		</div>
+		
+<a href="javascript: history.go(-1)" >>>voltar<<</a>
+</body>
+
+
+
+
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lembrete</title>
+<meta name="generator" content="Bluefish 2.2.4" >
+<meta name="author" content="aluno_2" >
+<meta name="date" content="2013-09-28T11:24:28-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<style>
+	body{
+	background-color: lightcoral;
+	font-family: arial;
+	font-size: 15px;	
+	color: whitesmoke;
+	margin: 30px;
+	}
+	div{
+	background-color: red;
+	display: block;
+	width: 300px;
+	height: 80px;
+	padding: 10px;
+	border-color: brown;
+	border-style: solid;
+	border-width: 2px;
+	text-align: justify;
+	float: right;
+	border-radius: 10px;
+	box-shadow: 2px 2px 3px 3px black;
+	position: absolute;
+	top: 40px;	
+	overflow-y: scroll;
+	opacity: 0.9;
+	}
+a{
+	background-color: white;
+	display: block;
+	width: 115px;
+	height: 20px;
+	float: right;
+   text-decoration: none; 
+   color: grey;
+   }
+a:hover{
+	text-decoration: underline;
+
+
+}
+
+
+
+</style>
+
+
+
+</head>
+<body>
+<div>
+	A casa da nossa colega de sala tem três quartos, sendo que
+   um é uma suite, a casa dispõe de dois banheiros, garagem
+   para dois carros, trata-se de um apartamento no primeiro andar
+   sendo do conjunto Acaraú, no bairro Agua Verde, próximo ao campo do
+   clube Atlético Paranaense, com vista para a avenida Madre Maria dos Anjos.
+</div>
+<a href="vinhos.html">página de vinhos</a>
+
+
+
+
+
+
+
+</body>
+</html>

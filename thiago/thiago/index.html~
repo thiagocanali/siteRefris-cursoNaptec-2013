@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Minha primeira pagina em html</title>
+<body bgcolor="#D4E0E9" background="fundo.jpg">
+<p> Este é o meu primeiro paragrafo em html </p>
+<p> PODEMOS FORÇAR UMA QUEBRA EM UM PONTO DE TEXTO <br>
+<hr>
+<h1> essa tag é usada geralmente em titulos </h1>
+<h2> o h2 seria um sub titulo xD q vai ateh h6</h2>
+<p> Podemos usar <b> Negron </b> </p>
+<p> tambem podemos usar <i>italico</i></p>
+<h3> VolTz </h3>
+
+<!-- ul é uma lista -->
+
+<ul>
+<li>Curitibah</li>
+<li>Santa Catarina</li>
+<li>Bahia</li>
+</ul>
+
+<img src="cachorro.jpg" alt="Texto alternativo" width="300px" height="200px"></img>
+<br>
+<br>
+<a href="http://www.google.com" >Busca no Google!!!</a>
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulário em tabela</title>
+<meta name="generator" content="Bluefish 2.2.4" >
+<meta name="author" content="aluno_2" >
+<meta name="date" content="2013-10-05T15:37:44-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<style>
+table{
+
+	font-family: cursive;
+	font-size: 15px;
+	display: block;
+	width: 450px;
+	height: 450px;
+	border-color: #00FFE5;
+	border-style: double;
+	border-width: 2px;
+	padding: 20px;
+	margin: 1px;	
+	background-color: #9FC7D3;
+	border-radius: 15px;
+	box-shadow: 1px 1px 1px 1px #00C9B5;
+	margin: auto;
+	position: relative;
+	text-align: justify;
+}
+body{
+background-color: #00164F;
+}
+
+td{
+padding: 20px;
+}
+
+</style>
+</head>
+<body>
+
+<form name="cadastro" method="GET" action="http://www.google.com">
+<table>
+<tr>
+	<td class="pri">Nome:</td>
+	<td><input type="text" name="Nome"</td>
+</tr>
+
+<tr>
+	<td class="seg">Idade:</td>
+	<td><input type="text" name="Idade"</td>
+</tr>
+<br/>
+<tr>
+	<td class="ter">Sexo:</td>
+	<td><input type="radio" name="Sexo" value="M"</td>Masculido
+	<td><input type="radio" name="Sexo" value="F"</td>Feminino
+</tr>
+<br/>
+<tr>
+	<td class="qua">Estado Cívil:</td>
+	<td>
+			   <select name="civil">
+				<option value="solteiro">Solteiro</option>
+				<option value="casado">Casado</option>
+				<option value="viúvo">Viúvo</option>
+				<option value="separado">Separado</option>
+				<option value="divorciado">Divorciado</option>
+	         </select>	
+	</td>
+</tr>
+<tr>
+	<td><input type="submit" value="Enviar"</td>
+	<td><input type="reset" value="Limpar"</td>
+</tr>
+
+</table>
+</form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Caixinhas</title>
+<meta name="generator" content="Bluefish 2.2.4" >
+<meta name="author" content="aluno_2" >
+<meta name="date" content="2013-09-21T09:35:20-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="all">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<style>
+b{
+	background-color: red;
+	display: block;
+	width: 80px;
+	height: 40px;
+	float: left; /*comentário*/
+	
+}
+.peixe{
+	background-color: blue;
+
+}
+#gato{
+	background-color: yellow;
+
+}
+</style>
+</head>
+<body>
+Este é meu texto montado em <b>html</b>, 
+usando como editor o <b class="peixe">Bluefish</b> <br/>
+neste exemplo, vamos começar a manipular 
+tags <b id="gato">html</b> trocando características<br/>
+no css!!!
+<p class="peixe">este é meu paragrafo</p>
+
+
+</body>
+</html>
